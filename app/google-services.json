@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "50046255201",
+    "firebase_url": "https://yeksignaltest.firebaseio.com",
+    "project_id": "yeksignaltest",
+    "storage_bucket": "yeksignaltest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50046255201:android:ed26d128e114661c",
+        "android_client_info": {
+          "package_name": "com.example.yeksignaltest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50046255201-u2nalevudhrqs24fpkm8jn8q0eihi8va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArbEqT1mj1gwbxqfBo_H_Zdfct9-1XODk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

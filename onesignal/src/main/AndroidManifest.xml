@@ -61,7 +61,10 @@
 
     <!-- End: ShortcutBadger -->
 
-    <application>
+    <application
+        android:usesCleartextTraffic="true"
+        android:networkSecurityConfig="@xml/network_config">
+
         <receiver android:name="com.onesignal.NotificationOpenedReceiver" />
 
         <service android:name="com.onesignal.GcmIntentService" />
